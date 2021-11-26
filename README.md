@@ -1,10 +1,10 @@
 # Cra Template
 
-Basic cra template with setup config
+Basic cra template with setup config  
 
-Main branch is in typescript.
+Main branch is in typescript  
 
-There is `vanilla-js` branch which surprisingly it's a vanilla-js version of the template
+There is `vanilla-js` branch which surprisingly it's a vanilla-js version of the template  
 
 # Steps
 
