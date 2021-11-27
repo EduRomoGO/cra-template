@@ -1,6 +1,4 @@
-/** @jsxImportSource @emotion/react */
-import { css } from "@emotion/react";
-// import {Button} from 'reactstrap'
+import ReferencingForm from "components/referencing-form";
 
 function App() {
   return (
