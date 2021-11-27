@@ -4,7 +4,7 @@ import { css } from "@emotion/react";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header
         css={css`
           font-weight: bold;
