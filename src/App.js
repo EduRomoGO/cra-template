@@ -1,4 +1,5 @@
-import ReferencingForm from "components/referencing-form";
+/** @jsxImportSource @emotion/react */
+import { css } from "@emotion/react";
 
 function App() {
   return (
